@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Node version 16 or higher
 
+# Reference 
+
+The UI is based on [Ant Design](https://ant.design/)
+
 ## Available Scripts
 
 In the project directory, you can run:
